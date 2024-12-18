@@ -1,8 +1,5 @@
 {
-  "scripts": {
-    "start": "node ayu.js"
-  },
-  "dependencies": {
+    "dependencies": {
    "@androz2091/insta.js": "^1.6.1",
     "node-webpmux": "^3.1.1",
     "fluent-ffmpeg": "^2.1.2",
@@ -71,5 +68,26 @@
     "uberduck-api": "^1.2.2",
     "ytdownloader.js": "^1.0.9",
     "mercadopago": "^1.5.15"
-  }
+  },
+  "name": "api",
+  "description": "Sempre buscando melhorar, qualquer dúvida entra em contato comigo por meio do WhatsApp: +55 91 8166-8473",
+  "version": "7.0.0",
+  "main": "furina.js",
+  "scripts": {
+    "start": "node ayu.js",
+    "test": "node ayu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://FURINA - SUPREMACY.com"
+  },
+  "keywords": [
+    "bot-baileys"
+  ],
+  "author": "Lana Mods",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://FURINA - SUPREMACY.com"
+  },
+  "homepage": "http://sabapis.tech/docs"
 }
